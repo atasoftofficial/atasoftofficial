@@ -15,6 +15,7 @@
   
   <p>
     <a href="https://github.com/atasoftofficial"><img src="https://img.shields.io/github/followers/atasoftofficial?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub followers"></a>
+    <a href="https://accounts.atasoft.xyz/u/admin"><img src="https://accounts.atasoft.xyz/badge.php?u=admin" alt="ATASOFT verified profile" height="20"></a>
     <a href="https://atasoft.xyz"><img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge" /></a>
   </p>
 </div>
