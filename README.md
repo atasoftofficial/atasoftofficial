@@ -5,7 +5,7 @@
   <br><br>
   
   <a href="https://atasoft.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT;GELISTIRICI+EKIBI;YENILIKCI+ALTYAPILAR;DIJITAL+COZUMLER" alt="Animated ATASOFT Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=ATASOFT;DEVELOPMENT+TEAM;INNOVATOR+INFRASTRUCTURES;DIGITAL+SOLUTIONS" alt="Animated ATASOFT Text" />
   </a>
   <br>
   
